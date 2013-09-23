@@ -1,4 +1,7 @@
 
 public class HelloWorld {
-System.out.println("HelloWorld");
+	public static void main(){
+		System.out.println("HelloWorld");
+	}
 }
+
